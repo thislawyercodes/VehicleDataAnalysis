@@ -23,8 +23,8 @@ The time-series analysis is designed to help users gain insights into regional d
    
 2. **Install Requirements for the project dependencies:**
    ```bash
-    pip3 install -r Utils/requirements.txt
+    pip3 install -r requirements.txt
 
-3 **Make sure you include the vehicle dataset in the utils folder for the code to work**
+3 **Make sure you include the vehicle dataset in the Utils folder for the code to work**
 4 **Run your Notebook, play with the filters, and observe the vehicle totals over time!Happy coding**
    
