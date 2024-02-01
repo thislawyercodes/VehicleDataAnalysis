@@ -20,7 +20,11 @@ The time-series analysis is designed to help users gain insights into regional d
    ```bash
    git clone https://github.com/thislawyercodes/VehicleDataAnalysis.git
    cd VehicleDataAnalysis
+   
 2. **Install Requirements for the project dependencies**
-3. **Make sure you include the vehicle dataset in the utils folder for the code to work**
+```bash
+ pip3 install -r requirements.txt
+
+3 **Make sure you include the vehicle dataset in the utils folder for the code to work**
 4 **Run your Notebook, play with the filters and observe the vehicle totals over time**
    
